@@ -1,0 +1,9 @@
+{
+  "name": "create-zignis-plugin",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "zignis": "^1.5.3"
+  }
+}
