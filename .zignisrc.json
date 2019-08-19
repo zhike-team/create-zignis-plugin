@@ -1,7 +1,5 @@
 {
-  "commandDir": "bin/zignis/commands",
-  "pluginDir": "bin/zignis/plugins",
-  "extendDir": "bin/zignis/extends",
-  "scriptDir": "bin/zignis/scripts",
-  "hookDir": "bin/zignis/hooks"
+  "commandDir": "src/commands",
+  "extendDir": "src/extends",
+  "hookDir": "src/hooks"
 }
