@@ -10,5 +10,5 @@ export const builder = function (yargs: any) {
 }
 
 export const handler = async function (argv: any) {
-  console.log('Hi Zignis!')
+  console.log('Hey you!')
 }
