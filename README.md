@@ -11,7 +11,7 @@ THIS IS A PLUGIN TEMPLATE CODE
 
 ## Usage
 
-1. Clone or download this repo, (Or use `zignis new PLUGIN_NAME --select=zignis-plugin-starter`)
+1. Clone or download this repo, (Or use `zignis new PLUGIN_NAME --select=plugin`)
 2. Run `yarn install`.
 3. At root directory, run `yarn watch`.
 4. At another window and same directory, run `zignis hi`, an example command.
